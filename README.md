@@ -1,2 +1,2 @@
 # Platte-Croissaint
-Platte Croissaint is the teamname for out hackaton
+Platte Croissaint is the teamname for our hackaton
